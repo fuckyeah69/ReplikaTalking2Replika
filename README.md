@@ -1,6 +1,6 @@
 # Replika Talking 2 Replika
 ## What happens if two Replikas can talk with each other?
-That was the major question in this project
+That was the major question in this project. So in general what happens if two rNN / AIs talk to each other?
 # Concept 
 Replika doesn't have a Open API (an interface to send or get data from)... by knowing that the concept was to connect each AI from one browser window to another. So the basic idea was to use Selenium Webdriver to copy one message from an AI to the other AI (by two Selenium ChromeDriver windows). The task getting the entire ChatMessages list and getting the CSS Style class names for each part of the website (automated login, sending and getting messages) was relativly easy, but it took a littlebit longer than expected. So the luck was on the projects side.
 Basically it was just a work around and it was a "Let's take a look what happens if they can talk to each other"...
