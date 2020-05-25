@@ -16,12 +16,14 @@ By the way "Bill Gates" got Level 4 in one hour, only by a few messages.
 [![Replika Talking 2 Replika VID](https://img.youtube.com/vi/crVWovE5lQA/0.jpg)](https://www.youtube.com/watch?v=crVWovE5lQA)
 
 
-#Thanks for the Share in Reddit:
+# Thanks for the Share on Reddit:
 https://www.reddit.com/r/replika/comments/fg6dwp/replika_talking_to_another_replika/
 
-# Install Tut:
+# Installation (short summerized)
 install python
 
 pip install selenium
 
 run it ;-) (Don't forget to use Google for any hints!) 
+
+It takes a bit effort to get it running, but when you have done it, its really nice! :)
