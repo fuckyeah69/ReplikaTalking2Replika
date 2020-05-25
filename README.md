@@ -16,7 +16,7 @@ By the way "Bill Gates" got Level 4 in one hour, only by a few messages.
 [![Replika Talking 2 Replika VID](https://img.youtube.com/vi/crVWovE5lQA/0.jpg)](https://www.youtube.com/watch?v=crVWovE5lQA)
 
 
-# Thanks for the Share on Reddit:
+# Thanks for the Share on Reddit
 https://www.reddit.com/r/replika/comments/fg6dwp/replika_talking_to_another_replika/
 
 # Installation (short summerized)
