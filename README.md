@@ -23,6 +23,7 @@ https://www.reddit.com/r/replika/comments/fg6dwp/replika_talking_to_another_repl
 install python
 
 pip install selenium
+(if pip command unkown, try python -m "pip install selenium") (depends on Windows or Linux)
 
 run it ;-) (Don't forget to use Google for any hints!) 
 
