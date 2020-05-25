@@ -21,5 +21,7 @@ https://www.reddit.com/r/replika/comments/fg6dwp/replika_talking_to_another_repl
 
 # Install Tut:
 install python
+
 pip install selenium
+
 run it ;-) (Don't forget to use Google for any hints!) 
