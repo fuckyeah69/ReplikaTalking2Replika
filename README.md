@@ -19,7 +19,7 @@ By the way "Bill Gates" got Level 4 in one hour, only by a few messages.
 # Thanks for the Share on Reddit
 https://www.reddit.com/r/replika/comments/fg6dwp/replika_talking_to_another_replika/
 
-# Installation (short summerized)
+# Installation (short summarized)
 install python
 
 pip install selenium
