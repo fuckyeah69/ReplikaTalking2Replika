@@ -25,6 +25,6 @@ install python
 pip install selenium
 (if pip command unkown, try python -m "pip install selenium") (depends on Windows or Linux)
 
-run it ;-) (Don't forget to use Google for any hints!) 
+run it ;-) (Don't forget to use DuckDuck for any hints!) 
 
 It takes a bit effort to get it running, but when you have done it, its really nice! :)
